@@ -1,0 +1,9 @@
+C:\Users\mateus.santos\Projetos\RabbitMQ .NET Core\RabbitMQ.Sender\RabbitMQ.Sender\bin\Debug\netcoreapp1.1\RabbitMQ.Sender.deps.json
+C:\Users\mateus.santos\Projetos\RabbitMQ .NET Core\RabbitMQ.Sender\RabbitMQ.Sender\bin\Debug\netcoreapp1.1\RabbitMQ.Sender.runtimeconfig.json
+C:\Users\mateus.santos\Projetos\RabbitMQ .NET Core\RabbitMQ.Sender\RabbitMQ.Sender\bin\Debug\netcoreapp1.1\RabbitMQ.Sender.runtimeconfig.dev.json
+C:\Users\mateus.santos\Projetos\RabbitMQ .NET Core\RabbitMQ.Sender\RabbitMQ.Sender\bin\Debug\netcoreapp1.1\RabbitMQ.Sender.dll
+C:\Users\mateus.santos\Projetos\RabbitMQ .NET Core\RabbitMQ.Sender\RabbitMQ.Sender\obj\Debug\netcoreapp1.1\RabbitMQ.Sender.csprojResolveAssemblyReference.cache
+C:\Users\mateus.santos\Projetos\RabbitMQ .NET Core\RabbitMQ.Sender\RabbitMQ.Sender\obj\Debug\netcoreapp1.1\RabbitMQ.Sender.AssemblyInfo.cs
+C:\Users\mateus.santos\Projetos\RabbitMQ .NET Core\RabbitMQ.Sender\RabbitMQ.Sender\bin\Debug\netcoreapp1.1\RabbitMQ.Sender.pdb
+C:\Users\mateus.santos\Projetos\RabbitMQ .NET Core\RabbitMQ.Sender\RabbitMQ.Sender\obj\Debug\netcoreapp1.1\RabbitMQ.Sender.dll
+C:\Users\mateus.santos\Projetos\RabbitMQ .NET Core\RabbitMQ.Sender\RabbitMQ.Sender\obj\Debug\netcoreapp1.1\RabbitMQ.Sender.pdb
